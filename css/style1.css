@@ -6,7 +6,7 @@ header {
 }
 
 header img {
-  height: 4em;
+  height: 6em;
 }
 
 header h1 {
@@ -48,3 +48,7 @@ footer {
 footer p {
   text-align: center;
 }
+
+img {
+    height: 10em;
+  }

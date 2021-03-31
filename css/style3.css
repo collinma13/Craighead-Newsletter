@@ -48,3 +48,6 @@ header {
   footer p {
     text-align: center;
   }
+  img {
+    height: 6em;
+  }
