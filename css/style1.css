@@ -1,65 +1,50 @@
-*{
-    background-color:white;
+
+header {
+  background-color: #DDDDDD;
+  display: flex;
+  align-items: center;
 }
 
-h1 {
-    padding: 50px;
-    font-family:'Faster One', cursive;
-    text-align: center; 
-    font-size: 30px;
-    background-color: lightskyblue;
-    color:black;
-
-}
-h2 {
-    font-family: 'Titillium Web', sans-serif;
+header img {
+  height: 4em;
 }
 
-h3 {
-    font-family: 'Titillium Web', sans-serif;
+header h1 {
+  font-family: 'Stick', sans-serif;
 }
 
-a {
-    text-decoration: none;
-    color: black;
-    border: 1px solid black;
-    border-radius: 0.5em;
-    /*
-    padding-right: 6em;
-    padding-left: 6em;
-    */
-    width: 200px;
-    display: block;
+nav {
+  background-color: #DDDDDD;
 }
-nav { 
- width: 50%;
- margin-right: auto;
- margin-left: auto;
+
+nav a {
+  font-family: 'Akaya Telivigala', sans-serif;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  display: block;
+  margin-bottom: 0.25em;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
 }
 
 nav a:hover {
-    color: white;
-    background-color: #fbbfca ;
+  text-decoration: underline;
 }
 
 main {
-    background-color:white;
-    font-size: 17px;
-    padding-right: 2em;
-    padding-left: 2em;
-    font-family: 'Raleway', sans-serif
+  font-family: 'Roboto', sans-serif;
 }
 
 main em {
   font-weight: bold;
 }
 
-img {
-    height: 30em;
-    width: 20em;
-    display: block;
+footer {
+  height: 5em;
+  background-color: #DDDDDD;
 }
 
-footer {
-    background-color: white;
+footer p {
+  text-align: center;
 }
