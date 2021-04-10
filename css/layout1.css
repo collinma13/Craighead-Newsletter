@@ -6,8 +6,8 @@ footer { grid-area: f; }
 
 body {
   display: grid;
-  grid: " h   h   n  " 6em
-        " .   m   .  " auto
+  grid: " h   h   h  " 6em
+        " n   m   .  " auto
         " f   f   f  " auto
         / 1fr 4fr 1fr;
 }

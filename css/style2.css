@@ -1,6 +1,6 @@
 
 header {
-    background-color: #DDDDDD;
+    background-color: #0fff95;
     display: flex;
     align-items: center;
   }
@@ -10,22 +10,19 @@ header {
   }
   
   header h1 {
-    font-family: 'Stick', sans-serif;
-  }
-  
-  nav {
-    background-color: #DDDDDD;
+    font-family: 'Chango', cursive;
   }
   
   nav a {
-    font-family: 'Akaya Telivigala', sans-serif;
+    font-family: 'Chango', cursive;
+    text-align: center;
     text-decoration: none;
-    color: black;
-    background-color: white;
+    color: #06ba63;
+    background-color: #103900;
     display: block;
-    margin-bottom: 0.25em;
-    padding-left: 0.25em;
-    padding-right: 0.25em;
+    margin-bottom: 0.10em;
+    padding-left: 0.10em;
+    padding-right: 0.10em;
   }
   
   nav a:hover {
@@ -33,7 +30,7 @@ header {
   }
   
   main {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
   
   main em {
@@ -42,7 +39,7 @@ header {
   
   footer {
     height: 5em;
-    background-color: #DDDDDD;
+    background-color: white;
   }
   
   footer p {
