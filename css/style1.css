@@ -16,6 +16,7 @@ header h1 {
 
 nav a {
   font-family: 'Chango', cursive;
+  text-align: center;
   text-decoration: none;
   color: #3788c5;
   background-color:#192a51;
