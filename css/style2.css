@@ -15,10 +15,9 @@ header {
   
   nav a {
     font-family: 'Indie Flower', cursive;
+    text-decoration: none;
     color:#103900;
     background-color: #0fff95;
-    
-    text-decoration: none;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -31,7 +30,6 @@ header {
   
   main {
     font-family: 'Poppins', sans-serif;
-
   }
   
   main em {
@@ -48,5 +46,5 @@ header {
   }
 
   img {
-    height: 20em;
+    height: 15em;
   }
